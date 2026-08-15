@@ -2,6 +2,30 @@
 
 A modern, sleek, and highly interactive personal portfolio template designed for Fullstack Developers, Software Engineers, and UI/UX Designers. Crafted with a dark theme and vibrant neon accents, this template is perfect for showcasing your skills, projects, and professional experience.
 
+## 📸 Screenshots
+
+Here is a preview of the different sections of the portfolio:
+
+### 1. Hero Section
+The landing area featuring a bold introduction, key links, and a professional photo with status badges.
+![Hero Section](./Screenshot%20From%202026-08-16%2000-44-07.jpg)
+
+### 2. About Me
+A detailed look into your professional background, core skills, and experience metrics.
+![About Me Section](./Screenshot%20From%202026-08-16%2000-44-23.png)
+
+### 3. Projects Showcase
+An interactive gallery to display your work, complete with filters, search, and detailed project cards.
+![Projects Section](./Screenshot%20From%202026-08-16%2000-44-35.jpg)
+
+### 4. Experience & Skills
+A visual representation of your career journey and technical expertise.
+![Experience Section](./Screenshot%20From%202026-08-16%2000-44-47.png)
+
+### 5. Contact & Booking
+A comprehensive section for getting in touch, featuring a contact form and a direct call booking widget.
+![Contact Section](./Screenshot%20From%202026-08-16%2000-44-59.png)
+
 ## 🚀 Features
 
 *   **Modern UI/UX:** Clean, dark-themed design with engaging purple and pink gradient accents.

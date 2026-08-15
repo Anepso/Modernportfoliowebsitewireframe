@@ -16,7 +16,7 @@ A detailed look into your professional background, core skills, and experience m
 
 ### 3. Projects Showcase
 An interactive gallery to display your work, complete with filters, search, and detailed project cards.
-![Projects Section](./project.jpg)
+![Projects Section](./project.png)
 
 ### 4. Experience & Skills
 A visual representation of your career journey and technical expertise.
